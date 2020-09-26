@@ -1,0 +1,16 @@
+body {
+	font-family: "Roboto";
+	text-align: left;
+	background-color: white;
+	margin: 2%;
+}
+
+a:hover {
+	color: pink
+}
+
+#chonk-image {
+	width: 300px;
+	height: 168.34px;
+	float: center;
+}
